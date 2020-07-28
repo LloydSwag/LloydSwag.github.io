@@ -1,2 +1,4 @@
 # LloydSwag.github.io
-Ny nettside.
+Ny nettside, finlandikrig.tk
+
+New website, finlandikrig.tk
