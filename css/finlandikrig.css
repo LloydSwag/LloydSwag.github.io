@@ -1,0 +1,97 @@
+li {
+	margin-bottom : 6px;
+}
+
+tr {
+	font : 13px Arial, Helvetica, sans-serif;
+}
+
+A:hover {
+	text-decoration : underline;
+}
+
+A:active {
+	text-decoration : underline;
+}
+
+.header_big {
+	font: bold 24px Verdana, Arial;
+}
+
+.header_medium {
+	font: bold 16px Arial;
+	color : Black;
+	text-decoration : none;
+}
+
+.footer {
+	font : 11px Arial, Helvetica, sans-serif;
+}
+
+.article_body {
+	font : 13px Arial, Helvetica, sans-serif;
+	text-align : justify;
+}
+
+.article_title {
+	font : 18px Arial, Helvetica, sans-serif;
+}
+
+.article_source {
+	font : 11px Arial, Helvetica, sans-serif;
+	color : Gray;
+}
+
+.navigation_element {
+	font : bold 11px Arial, Helvetica, sans-serif;
+	color : Blue;
+	text-decoration : none;
+}
+
+.top_menu_item {
+	font : 14px Arial, Helvetica, sans-serif;
+	color : Blue;
+	text-decoration : none;
+}
+
+.menu_item {
+	font : 13px Arial, Helvetica, sans-serif;
+}
+
+.menu_item_small {
+	font : 12px Arial, Helvetica, sans-serif;
+}
+
+.current_menu_item {
+	font : bold 12px Arial, Helvetica, sans-serif;
+}
+
+.area_title_red {
+	font : bold 16px Arial, Helvetica, sans-serif;
+	color : Red;
+}
+
+.area_title {
+	font : bold 24px Arial, Helvetica, sans-serif;
+}
+
+.weapon_category {
+	font : bold 16px Arial, Helvetica, sans-serif;
+}
+
+.specifications_title {
+	font : bold 16px Arial, Helvetica, sans-serif;
+}
+
+.specification_name {
+	font : bold 13px Arial, Helvetica, sans-serif;
+}
+
+.specification_value {
+	font : 13px Arial, Helvetica, sans-serif;	
+}
+
+.news_date {
+	font : bold 12px Arial, Helvetica, sans-serif;
+	text-align : justify;
+}
